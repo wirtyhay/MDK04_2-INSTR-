@@ -1,4 +1,4 @@
-public class InstrumentDemo {
+public class Instrument() {
     public static void main(String[] args) {
         Instrument[] instruments = new Instrument[3];
         instruments[0] = new Gitara();
